@@ -1,6 +1,6 @@
-# Vox Aurora — Protótipo de site coral
+# Independente Coro Clássico — Protótipo de site coral
 
-Site institucional estático para um coral fictício (`Vox Aurora`). Todo o conteúdo é genérico e demonstrativo: nomes, datas, valores, endereços e e-mails são inventados.
+Site institucional estático para um coral fictício (`Independente Coro Clássico`). Todo o conteúdo é genérico e demonstrativo: nomes, datas, valores, endereços e e-mails são inventados.
 
 ## Stack
 
@@ -45,7 +45,7 @@ coral-site/
 
 Todo o conteúdo está em `index.html`, organizado por `<section id="...">`. Para mudar:
 
-- **Nome do coral** → busque `Vox Aurora` (header, brand-name, footer, meta tags).
+- **Nome do coral** → busque `Independente Coro Clássico` (header, brand-name, footer, meta tags).
 - **Maestro fictício** → busque `Helena Vasconcelos` no bloco `.maestro-card`.
 - **Agenda** → 3 blocos `<article class="agenda-item">` em `#agenda`. Edite `.day`, `.month`, `.year`, `h4`, `.agenda-meta`, `.agenda-rep` e o `<span class="status-badge ...">` (`open`/`soon`/`full`).
 - **Audições** → blocos `.aud-step` (etapas) e `.aud-side` (vozes/critérios).
